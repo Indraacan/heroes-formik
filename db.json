@@ -1,0 +1,26 @@
+{
+  "heroes": [
+    {
+      "values": {
+        "fullname": "Abdul Halim",
+        "born": 1911,
+        "died": 1988,
+        "description": "Aktivis kemerdekaan dan politisi, Perdana Menteri Indonesia",
+        "establishment": "2008",
+        "imgurl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mendes_PDTT_%282019-2024%29.jpg"
+      },
+      "id": 1
+    },
+    {
+      "values": {
+        "fullname": "Abdul Muis",
+        "born": 1883,
+        "died": 1959,
+        "description": "Politisi, kemudian penulis",
+        "establishment": "1959",
+        "imgurl": "https://direktoratk2krs.kemsos.go.id/admin-pc/assets/img/pahlawan/1.jpg"
+      },
+      "id": 2
+    }
+  ]
+}
